@@ -5,9 +5,9 @@
 My name is NG KA LUN. You can call me Aaron. I am year2 student, majored in computer engineering. I hope that I can become web-developer in the future.
 
 ### To-do list
-- [X] CSCI 2100
-- [X] CSCI 3250
-- [X] ENGG 1120
+- [ ] CSCI 2100
+- [ ] CSCI 3250
+- [ ] ENGG 1120
 
 ### Programming Language that I have leart
 * C
