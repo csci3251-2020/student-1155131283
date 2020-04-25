@@ -9,7 +9,7 @@ My name is NG KA LUN. You can call me Aaron. I am year2 student, majored in comp
 - [ ] CSCI 3250
 - [ ] ENGG 1120
 
-### Programming Language that I have leart
+### Programming Language that I have learnt
 * C
 * C++
 * Java
@@ -18,4 +18,4 @@ My name is NG KA LUN. You can call me Aaron. I am year2 student, majored in comp
 
 
 ### Screenshot
-![alt text](https://github.com/csci3251-2020/student-1155125534/blob/master/MILESTONE2.jpg)
+![alt text](https://github.com/csci3251-2020/student-1155131283/blob/master/MILESTONE2.jpg)
